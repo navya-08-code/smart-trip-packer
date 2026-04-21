@@ -1,3 +1,6 @@
+live link:
+https://smart-trip-packer-ai.onrender.com/
+
 # 🧳 Smart Trip Packer
 
 > A mobile-friendly web app that suggests what to pack for any trip based on **real-time weather** at your destination.
